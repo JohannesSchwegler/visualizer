@@ -620,3 +620,10 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+
+.visited{
+  background-color: red;
+  color: #fff;
+  transition: .5s ease-in;
+}
